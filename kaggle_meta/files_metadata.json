@@ -1,0 +1,33 @@
+[
+  {
+    "name": "sample_submission.csv",
+    "size": 1084062,
+    "columns": [
+      "id",
+      "num_sold"
+    ]
+  },
+  {
+    "name": "test.csv",
+    "size": 5669940,
+    "columns": [
+      "id",
+      "date",
+      "country",
+      "store",
+      "product"
+    ]
+  },
+  {
+    "name": "train.csv",
+    "size": 14484261,
+    "columns": [
+      "id",
+      "date",
+      "country",
+      "store",
+      "product",
+      "num_sold"
+    ]
+  }
+]
